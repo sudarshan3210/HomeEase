@@ -1,0 +1,16 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload_providers.js",
+  "type": "module",
+  "scripts": {
+    "start": "node upload_providers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^12.6.0"
+  }
+}
